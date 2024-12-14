@@ -55,9 +55,9 @@ env.getEnv();
 
 **settings default**  
 *By default the are variables are not checked in, meaning they can be altered or new pairs added.  
-Set the options as shown below to prevent this.
+Set the options as shown below to prevent this.*
 
-Note: This may break other modules if you freeze their assets.
+*Note: This may break other modules if you freeze their assets.*
 
 ---
 
